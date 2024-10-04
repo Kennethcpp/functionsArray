@@ -1,11 +1,11 @@
 
-/*Write a JavaScript function named scoreCategory that takes a student's 
+/* JavaScript function named scoreCategory that takes student's 
 score as input and returns the corresponding category based on the following criteria:
 
     Score 90 or above: return "Excellent"
     Score 80-89: return "Very Good"
     Score 70-79: return "Pass"
-    Score below 70: return "
+    Score below 70: return "*/
 
     number 2:
 
@@ -166,11 +166,10 @@ score as input and returns the corresponding category based on the following cri
 
 
 
-Assignment 1 = return all students who are from California.
+/*Assignment 1 = return all students who are from California.
 
 Assignment 2 = return all female students.
 
 Assignment 3 return the firstName and score for each student.
 
-Assignment 4 = Calculate the average score of all students.
-*/
+Assignment 4 = Calculate the average score of all students.*/
